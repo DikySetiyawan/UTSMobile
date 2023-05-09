@@ -12,12 +12,6 @@
         tools:layout="@layout/fragment_movie" />
 
     <fragment
-        android:id="@+id/navigation_tvshow"
-        android:name="com.diky.appmovie.ui.tvshow.TvShowFragment"
-        android:label="@string/app_title_tvshow"
-        tools:layout="@layout/fragment_tv_show" />
-
-    <fragment
         android:id="@+id/navigation_profile"
         android:name="com.diky.appmovie.ui.profile.ProfileFragment"
         android:label="@string/profile"
